@@ -1,0 +1,25 @@
+body {
+  background-color: #b49082;
+}
+.letter {
+  height: 100px;
+  width: 100px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #8bc5b0;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 3px #999;
+  margin: 10px;
+}
+.word {
+  display: flex;
+  justify-content: center;
+}
+.game {
+  width: 100%;
+}
